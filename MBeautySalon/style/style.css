@@ -1,0 +1,22 @@
+body{direction: rtl;
+font-family: Vazirmatn;
+background-color: aqua;
+color: black;
+margin: 10px;
+}
+.menu{padding: 50px;
+background-color: rgb(93, 173, 253);
+font-size: x-large;
+}
+#services{background-color: deepskyblue;}
+#aboutUs{font-size: large;
+padding: 150px;
+}
+#contactUs{font-size: larger;
+text-align: center;padding: 50px;
+background-color:dodgerblue;
+}
+footer{text-align: center;
+font-size: large;
+background-color: deepskyblue;
+}
